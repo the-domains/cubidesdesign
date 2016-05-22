@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[cubidesdesign]]></title>
         <description><![CDATA[cubidesdesign]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cubidesdesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 23:26:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 May 2016 23:34:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cubidesdesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9c14e94-2e7e-4ac9-ab17-a4841921778b.jpg">]]></description>
+            <link>https://thegrid.ai/cubidesdesign/b3315080-b763-4618-8a4f-2cefbd8a4e1e/index.html</link>
+            <guid isPermaLink="false">b3315080-b763-4618-8a4f-2cefbd8a4e1e</guid>
+            <pubDate>Sun, 22 May 2016 23:34:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18401f5d-0f4b-4876-bf9e-d3f0f081d854.gif" alt="" title="">]]></description>
-            <link>undefinedf6a7d091-b650-4e22-a4d7-4fed0a17954a/index.html</link>
+            <link>https://thegrid.ai/cubidesdesign/f6a7d091-b650-4e22-a4d7-4fed0a17954a/index.html</link>
             <guid isPermaLink="false">f6a7d091-b650-4e22-a4d7-4fed0a17954a</guid>
             <pubDate>Sun, 22 May 2016 23:25:51 GMT</pubDate>
         </item>
