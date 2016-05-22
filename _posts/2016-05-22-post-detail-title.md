@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T23:47:27.415Z'
-dateModified: '2016-05-22T23:47:14.527Z'
+datePublished: '2016-05-22T23:47:49.591Z'
+dateModified: '2016-05-22T23:47:39.677Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-22-post-detail-title.md
