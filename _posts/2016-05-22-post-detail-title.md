@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T23:47:03.159Z'
-dateModified: '2016-05-22T23:46:45.446Z'
+datePublished: '2016-05-22T23:47:27.415Z'
+dateModified: '2016-05-22T23:47:14.527Z'
 title: ''
+author: []
+sourcePath: _posts/2016-05-22-post-detail-title.md
 authors: []
 publisher: null
-author: []
 starred: false
-sourcePath: _posts/2016-05-22-post-detail-title.md
 url: post-detail-title/index.html
 _type: Article
 
