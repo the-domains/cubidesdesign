@@ -1,28 +1,40 @@
-name: cubidesdesign
 favicon: null
-layout_spectrum: 0.76574
-typography_spectrum: 0.62217
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: cubidesdesign
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.2634408
+  brandStrength: 0.1404669578187168
+  lightness: 0.7096774
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.1875
-  lightness: 0.4375
-  saturation: 0.6875
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.5075838
+typography_spectrum: 0.2539807152934372
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.4009579329285771
+analytics:
+  twitter: null
+  google: null
+  facebook: null
