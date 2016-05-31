@@ -1,7 +1,7 @@
 name: cubidesdesign
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.25398071529343724
+layout_spectrum: 0.76574
+typography_spectrum: 0.62217
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.14046695781871676
-  lightness: 0.5123571623116732
-  saturation: 0.6074669850058854
-  rhythmicContrast: 0.5075838142074645
+  brandStrength: 0.1875
+  lightness: 0.4375
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
