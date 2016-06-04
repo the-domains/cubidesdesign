@@ -1,8 +1,7 @@
-layout_spectrum: 0.4009579329285771
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: cubidesdesign
+favicon: null
+layout_spectrum: 0.74517
+typography_spectrum: 0.6863799
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2634408
-  brandStrength: 0.1404669578187168
-  lightness: 0.7096774
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+  brandStrength: 0.1404669578187168
+  lightness: 0.5
+  saturation: 0.2634408
   rhythmicContrast: 0.5075838
-typography_spectrum: 0.6863799
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: cubidesdesign
+purpose: []
