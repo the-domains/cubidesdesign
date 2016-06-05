@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: FILL image
-datePublished: '2016-06-04T16:14:54.842Z'
-dateModified: '2016-06-04T16:14:46.016Z'
+datePublished: '2016-06-05T00:21:30.908Z'
+dateModified: '2016-06-04T18:21:12.882Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-04-fill-image.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-04-fill-image.md
 url: fill-image/index.html
 _type: Article
 
