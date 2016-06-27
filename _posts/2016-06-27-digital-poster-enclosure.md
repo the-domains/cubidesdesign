@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Digital Poster Enclosure
-datePublished: '2016-06-27T02:40:37.085Z'
-dateModified: '2016-06-27T02:40:24.923Z'
+datePublished: '2016-06-27T02:45:04.362Z'
+dateModified: '2016-06-27T02:44:27.963Z'
 title: ''
 author:
   - name: ''
