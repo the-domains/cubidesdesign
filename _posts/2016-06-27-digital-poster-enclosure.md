@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Digital Poster Enclosure
-datePublished: '2016-06-27T02:38:30.849Z'
-dateModified: '2016-06-27T02:38:06.997Z'
+datePublished: '2016-06-27T02:40:37.085Z'
+dateModified: '2016-06-27T02:40:24.923Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-27-digital-poster-enclosure.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-27-digital-poster-enclosure.md
 url: digital-poster-enclosure/index.html
 _type: Article
 
