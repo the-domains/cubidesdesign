@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Mini Jukebox
-datePublished: '2016-07-05T04:20:35.410Z'
-dateModified: '2016-07-05T04:20:11.868Z'
+datePublished: '2016-07-05T13:55:30.845Z'
+dateModified: '2016-07-05T04:20:43.989Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-05-mini-jukebox.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-05-mini-jukebox.md
 url: mini-jukebox/index.html
 _type: Article
 
