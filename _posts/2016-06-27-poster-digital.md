@@ -1,18 +1,21 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Poster Digital
-datePublished: '2016-06-27T14:34:29.942Z'
-dateModified: '2016-06-27T14:33:30.191Z'
-title: ''
-author: []
-authors: []
-publisher: null
-starred: false
+datePublished: '2016-08-07T16:10:27.287Z'
 sourcePath: _posts/2016-06-27-poster-digital.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-07T16:10:26.758Z'
+title: ''
+publisher: {}
+description: Poster Digital
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: poster-digital/index.html
 _type: Article
 
