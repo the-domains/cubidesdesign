@@ -1,7 +1,34 @@
-name: cubidesdesign
-favicon: null
-layout_spectrum: 0.61266
 typography_spectrum: 0.6863799
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 1
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.61266
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: cubidesdesign
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Other Pages
+    url: 'https://thegrid.ai/franciscocubides/'
+    type: external
+favicon: null
 collections:
   - index:
       path: /
@@ -14,27 +41,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 1
-  lightness: 0.75
-  saturation: 0.5
-  rhythmicContrast: 0.5
 purpose: []
